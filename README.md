@@ -1,9 +1,9 @@
 #screenshot
 ![Home:](images/home.png)
-![List:](images/list.png)
 ![Login:](images/login.png)
-![OTP:](images/otp.png)
+![List:](images/list.png)
 ![Signup:](images/signup.png)
+![OTP:](images/otp.png)
 
 
 
